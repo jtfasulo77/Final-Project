@@ -1,0 +1,79 @@
+<section class = "right-container">
+
+  <section class = "section-block-container">
+    <div class = "section-info">
+      <div class = "section-title-container">
+        <h2 class = "section-title">MAGNA SED ADIPISCING</h2>
+        <p class = "section-subtitle">LOREM IPSUM DOLOR AMET NULLAM CONSEQUAT ETIAM FEUGIAT</p>
+      </div>
+      <div class = "section-credits-container">
+        <div class = "section-credits">
+          <p class = "section-date">NOVEMBER 1, 2015</p>
+          <div class = "section-author-container">
+            <p class = "section-author">JANE DOE</p>
+            <a href = "#" class = "author-photo"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class = "section-image-container">
+      <div class = "section-image">
+      </div>
+      <p class = "section-image-caption">Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+    </div>
+    <div class = "section-buttons-container">
+      <a href = "#" class = "continue-reading">CONTINUE READING</a>
+      <div class = "section-buttons">
+        <a href = "#" class = "general">GENERAL</a>
+        <p class = "|">|</p>
+        <div class = "like-container">
+          <i class="fas fa-heart"></i>
+          <p class = "social-numbers">28</p>
+        </div>
+        <p class = "|">|</p>
+        <div class = "comment-container">
+          <i class="fas fa-comment"></i>
+          <p "social-numbers">128</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class = "section-block-container">
+  <div class = "section-info">
+    <div class = "section-title-container">
+      <h2 class = "section-title">ULTRICIES SED MAGNA EUISMOD ENIM VITAE GRAVIDA</h2>
+      <p class = "section-subtitle">LOREM IPSUM DOLOR AMET NULLAM CONSEQUAT ETIAM FEUGIAT</p>
+    </div>
+    <div class = "section-credits-container">
+      <div class = "section-credits">
+        <p class = "section-date">OCTOBER 25, 2015</p>
+        <div class = "section-author-container">
+          <p class = "section-author">JANE DOE</p>
+          <a href = "#" class = "author-photo"></a>
+        </div>
+      </div>
+    </div>
+  </div>  
+  <div class = "section-image-container">
+    <div class = "section-image">
+    </div>
+    <p class = "section-image-caption">Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper.</p>
+  </div>
+  <div class = "section-buttons-container">
+    <a href = "#" class = "continue-reading">CONTINUE READING</a>
+    <div class = "section-buttons">
+      <a href = "#" class = "general">GENERAL</a>
+      <p class = "|">|</p>
+      <div class = "like-container">
+        <i class="fas fa-heart"></i>
+        <p class = "social-numbers">28</p>
+      </div>
+      <p class = "|">|</p>
+      <div class = "comment-container">
+        <i class="fas fa-comment"></i>
+        <p "social-numbers">128</p>
+      </div>
+    </div>
+  </div>
+</section>
